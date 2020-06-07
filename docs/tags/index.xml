@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 🔧 General Web Fixery — Development, APIs, Scalability, Testing</title>
+    <link>https://webfixery.com/tags/</link>
+    <description>Recent content in Tags on 🔧 General Web Fixery — Development, APIs, Scalability, Testing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Dec 2019 12:09:32 +0200</lastBuildDate>
+    
+	<atom:link href="https://webfixery.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>amperage</title>
+      <link>https://webfixery.com/tags/amperage/</link>
+      <pubDate>Mon, 23 Dec 2019 12:09:32 +0200</pubDate>
+      
+      <guid>https://webfixery.com/tags/amperage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://webfixery.com/tags/emoji/</link>
+      <pubDate>Mon, 23 Dec 2019 12:09:32 +0200</pubDate>
+      
+      <guid>https://webfixery.com/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://webfixery.com/tags/markdown/</link>
+      <pubDate>Mon, 23 Dec 2019 12:09:32 +0200</pubDate>
+      
+      <guid>https://webfixery.com/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://webfixery.com/tags/text/</link>
+      <pubDate>Mon, 23 Dec 2019 12:09:32 +0200</pubDate>
+      
+      <guid>https://webfixery.com/tags/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etiqueta</title>
+      <link>https://webfixery.com/tags/etiqueta/</link>
+      <pubDate>Wed, 16 Oct 2019 12:33:32 +0200</pubDate>
+      
+      <guid>https://webfixery.com/tags/etiqueta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag</title>
+      <link>https://webfixery.com/tags/tag/</link>
+      <pubDate>Mon, 16 Sep 2019 12:33:32 +0200</pubDate>
+      
+      <guid>https://webfixery.com/tags/tag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

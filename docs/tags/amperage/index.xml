@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>amperage on 🔧 General Web Fixery — Development, APIs, Scalability, Testing</title>
+    <link>https://webfixery.com/tags/amperage/</link>
+    <description>Recent content in amperage on 🔧 General Web Fixery — Development, APIs, Scalability, Testing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Dec 2019 12:09:32 +0200</lastBuildDate>
+    
+	<atom:link href="https://webfixery.com/tags/amperage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://webfixery.com/test/markdown-syntax/</link>
+      <pubDate>Mon, 23 Dec 2019 12:09:32 +0200</pubDate>
+      
+      <guid>https://webfixery.com/test/markdown-syntax/</guid>
+      <description>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</description>
+    </item>
+    
+  </channel>
+</rss>
