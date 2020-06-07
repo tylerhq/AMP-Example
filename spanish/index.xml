@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spanishes on Amperage theme ⚡</title>
+    <link>https://example.com/spanish/</link>
+    <description>Recent content in Spanishes on Amperage theme ⚡</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 Oct 2019 12:33:32 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/spanish/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Otro artículo de prueba</title>
+      <link>https://example.com/spanish/prueba/otro-articulo-de-prueba/</link>
+      <pubDate>Wed, 16 Oct 2019 12:33:32 +0200</pubDate>
+      
+      <guid>https://example.com/spanish/prueba/otro-articulo-de-prueba/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, mauris sed tincidunt dignissim, enim justo suscipit dui, vitae pharetra justo nulla at neque. Ut eu nulla in nisi dapibus efficitur. Donec sollicitudin ac arcu ac malesuada. Cras sapien orci, malesuada id ultrices ac, sodales sed est.</description>
+    </item>
+    
+    <item>
+      <title>Página</title>
+      <link>https://example.com/spanish/prueba/articulo-de-prueba/</link>
+      <pubDate>Wed, 16 Oct 2019 12:33:32 +0200</pubDate>
+      
+      <guid>https://example.com/spanish/prueba/articulo-de-prueba/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, mauris sed tincidunt dignissim, enim justo suscipit dui, vitae pharetra justo nulla at neque. Ut eu nulla in nisi dapibus efficitur. Donec sollicitudin ac arcu ac malesuada. Cras sapien orci, malesuada id ultrices ac, sodales sed est.</description>
+    </item>
+    
+  </channel>
+</rss>

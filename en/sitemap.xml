@@ -1,0 +1,95 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>https://example.com/tags/amperage/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://example.com/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://example.com/tags/emoji/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://example.com/test/emoji-support/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/tags/markdown/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://example.com/test/markdown-syntax/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/test/placeholder-text/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/tags/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://example.com/test/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://example.com/tags/text/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://example.com/tags/etiqueta/</loc>
+        <lastmod>2019-10-16T12:33:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://example.com/spanish/prueba/otro-articulo-de-prueba/</loc>
+        <lastmod>2019-10-16T12:33:32+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/spanish/prueba/articulo-de-prueba/</loc>
+        <lastmod>2019-10-16T12:33:32+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://example.com/spanish/</loc>
+        <lastmod>2019-10-16T12:33:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://example.com/tags/tag/</loc>
+        <lastmod>2019-09-16T12:33:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://example.com/test/yet-another-test-post/</loc>
+        <lastmod>2019-09-16T12:33:32+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+</urlset>
