@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Etiqueta on 🔧 General Web Fixery — Development, APIs, Scalability, Testing</title>
+    <link>https://webfixery.com/tags/etiqueta/</link>
+    <description>Recent content in Etiqueta on 🔧 General Web Fixery — Development, APIs, Scalability, Testing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 Oct 2019 12:33:32 +0200</lastBuildDate>
+    
+	<atom:link href="https://webfixery.com/tags/etiqueta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Otro artículo de prueba</title>
+      <link>https://webfixery.com/spanish/prueba/otro-articulo-de-prueba/</link>
+      <pubDate>Wed, 16 Oct 2019 12:33:32 +0200</pubDate>
+      
+      <guid>https://webfixery.com/spanish/prueba/otro-articulo-de-prueba/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, mauris sed tincidunt dignissim, enim justo suscipit dui, vitae pharetra justo nulla at neque. Ut eu nulla in nisi dapibus efficitur. Donec sollicitudin ac arcu ac malesuada. Cras sapien orci, malesuada id ultrices ac, sodales sed est.</description>
+    </item>
+    
+    <item>
+      <title>Página</title>
+      <link>https://webfixery.com/spanish/prueba/articulo-de-prueba/</link>
+      <pubDate>Wed, 16 Oct 2019 12:33:32 +0200</pubDate>
+      
+      <guid>https://webfixery.com/spanish/prueba/articulo-de-prueba/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, mauris sed tincidunt dignissim, enim justo suscipit dui, vitae pharetra justo nulla at neque. Ut eu nulla in nisi dapibus efficitur. Donec sollicitudin ac arcu ac malesuada. Cras sapien orci, malesuada id ultrices ac, sodales sed est.</description>
+    </item>
+    
+  </channel>
+</rss>
