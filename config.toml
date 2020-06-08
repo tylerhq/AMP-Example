@@ -50,10 +50,10 @@ paginate = 3
     ampElements = ["amp-analytics", "amp-social-share", "amp-install-serviceworker", "amp-iframe"]
 
     # Google Analytics code
-    googleAnalytics = ""
+    googleAnalytics = "UA-19155562-2"
 
     # Adsense publisher code
-    adsensePublisher = ""
+    #adsensePublisher = ""
 
     # Comments Iframe URL
     #commentsEmbedUrl = "https://comments.example.com"
