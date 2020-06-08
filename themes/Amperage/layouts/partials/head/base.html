@@ -2,6 +2,8 @@
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 
 <title>{{ .Title }}</title>
+<link rel="preconnect dns-prefetch" href="https://www.googletagmanager.com" crossorigin />
+<link rel="preconnect dns-prefetch" href="https://cdn.ampproject.org/" crossorigin />
 
 {{- partial "head/language-metas.html" . -}}
 
@@ -10,8 +12,6 @@
 <meta name="description" content="{{if .IsHome}}{{ .Site.Params.Description }}{{else}}{{.Description}}{{end}}" />
 <link rel="canonical" href="{{ .Permalink }}" >
 <link rel="sitemap" href="{{ "sitemap.xml" | absURL }}" type="application/xml" />
-<link rel="preconnect dns-prefetch" href="https://www.googletagmanager.com/" crossorigin />
-<link rel="preconnect dns-prefetch" href="https://cdn.ampproject.org/" crossorigin />
 
 {{- partial "head/og-metas.html" . -}}
 
