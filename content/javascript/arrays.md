@@ -28,7 +28,7 @@ keywords = ['array', 'arrays', 'javascript']
 
 # Emoji support
 
-{{% under-title %}}
+{{< under-title >}}
 
 Arrays in JavaScript allow for lists of data to be organized and used, declared within square brackets, comma separated.
 ```javascript
