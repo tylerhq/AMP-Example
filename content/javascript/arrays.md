@@ -38,3 +38,4 @@ let array = ["one", "two", "three"];
 Each element in the array can be accessed by index, from 0 to length-1.
 ```javascript
 let firstValue = array[0] // "one"
+```
