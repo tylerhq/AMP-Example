@@ -1,7 +1,3 @@
----
-published: true
-date: 2024-03-29
----
 +++
 
 draft = false
