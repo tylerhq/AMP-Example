@@ -6,16 +6,6 @@ content:
     view:
       fields: [ title, published, date ]
     fields:
-      - name: published
-        label: Published
-        type: boolean
-        default: true
-      - name: date
-        label: date
-        type: date
-      - name: title
-        label: title
-        type: string
       - name: body
         label: body
         type: rich-text
