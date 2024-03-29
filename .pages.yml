@@ -20,7 +20,7 @@ content:
         label: body
         type: rich-text
   - name: config
-    label: Jekyll config
+    label: Config
     path: _config.yml
     type: file
     fields:
