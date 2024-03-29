@@ -31,7 +31,7 @@ content:
         label: Website description
         type: string
         description: Will be provused for any page with no description.
-      - name: basURL
+      - name: baseURL
         label: Website URL
         type: string
         pattern: ^(https?:\/\/)?(www\.)?[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(\/[^\s]*)?$
