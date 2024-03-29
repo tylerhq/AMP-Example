@@ -11,11 +11,11 @@ content:
         type: boolean
         default: true
       - name: date
-        label: Date
+        label: date
         type: date
       - name: title
-        label: Title
+        label: title
         type: string
       - name: body
-        label: Body
+        label: body
         type: rich-text
