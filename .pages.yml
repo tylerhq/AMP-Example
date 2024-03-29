@@ -1,0 +1,5 @@
+content:
+  - name: posts
+    label: Posts
+    path: content/javascript
+    type: collection
